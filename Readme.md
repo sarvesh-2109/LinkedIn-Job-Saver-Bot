@@ -5,6 +5,10 @@ This Python script automates the process of saving job listings on LinkedIn usin
 ## Output
 
 
+https://github.com/sarvesh-2109/LinkedIn-Job-Saver-Bot/assets/113255836/f57d63f5-ec0f-4572-979c-4f21b3efe1a9
+
+
+
 ## Overview
 
 The bot is designed to help users automate the tedious task of manually going through and saving relevant job listings on LinkedIn. It performs the following actions:
