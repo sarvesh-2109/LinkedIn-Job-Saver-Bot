@@ -3,8 +3,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 import time
 
-ACCOUNT_EMAIL = "sar.mha1.rt21@dypatil.edu"
-ACCOUNT_PASSWORD = "Sarvesh@Linkedin"
+ACCOUNT_EMAIL = # Your Linkedin Account Email
+ACCOUNT_PASSWORD = # Your Linkedin Account Password
 
 chrome_options = webdriver.ChromeOptions()
 chrome_options.add_experimental_option("detach", True)
